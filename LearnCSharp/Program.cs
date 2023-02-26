@@ -1,4 +1,8 @@
-﻿using LearnCSharp;
+﻿//This file was created by @stefanandrei7
+//Free to use, feel free to add/change what you deem necessary
+
+
+using LearnCSharp;
 using System;
 using System.Collections;
 using System.Collections.Generic;
